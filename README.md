@@ -1,9 +1,9 @@
 ##  Speech recognition and speaker recognition algorithms
 This is a record of the learning of speech recognition and speaker recognition algorithms
 
-## Speech recognition algorithms
+# Speech recognition algorithms
 
-## speaker recognition algorithms
+# speaker recognition algorithms
 - VoxCeleb: a large-scale speaker identification dataset:https://www.cnblogs.com/zy230530/p/13657435.html
 - VoxCeleb2: Deep Speaker Recognition:https://www.cnblogs.com/zy230530/p/13657462.html
 - End-to-End Text-Dependent Speaker Verification:https://www.cnblogs.com/zy230530/p/13657502.html
