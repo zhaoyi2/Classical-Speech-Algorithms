@@ -1,5 +1,5 @@
 ##  Speech recognition and speaker recognition algorithms
-This is a record of the learning of speech recognition and speaker recognition algorithms
+This is a record of the learning of classical speech recognition and speaker recognition algorithms
 
 # Speech recognition algorithms
 
