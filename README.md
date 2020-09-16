@@ -1,7 +1,7 @@
 ##  Speech recognition and speaker recognition algorithms
-This is a record of the learning of classical speech recognition and speaker recognition algorithms
-Welcome to my personal technology blog:https://www.cnblogs.com/zy230530/
-If you have any questions,please contact me.
+- This is a record of the learning of classical speech recognition and speaker recognition algorithms
+- Welcome to my personal technology blog:https://www.cnblogs.com/zy230530/
+- If you have any questions,please contact me.
 
 # Speech recognition algorithms
 - CLDNN: CONVOLUTIONAL, LONG SHORT-TERM MEMORY,FULLY CONNECTED DEEP NEURAL NETWORKS,Google:https://www.cnblogs.com/zy230530/p/13658385.html
