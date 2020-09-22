@@ -31,6 +31,7 @@
 - TEXT-INDEPENDENT SPEAKER VERIFICATION USING 3D CONVOLUTIONAL NEURAL NETWORKS:https://www.cnblogs.com/zy230530/p/13657771.html
 - X-VECTORS: ROBUST DNN EMBEDDINGS FOR SPEAKER RECOGNITION:https://www.cnblogs.com/zy230530/p/13657793.html
 - Self-Attentive Speaker Embeddings for Text-Independent Speaker Verification:https://www.cnblogs.com/zy230530/p/13657823.html
+- CN-Celeb: A CHALLENGING CHINESE SPEAKER RECOGNITION DATASET:https://www.cnblogs.com/zy230530/p/13715298.html
 
 # speech augment algorithms
 - SpecAugment: A Simple Data Augmentation Methodfor Automatic Speech Recognition:https://www.cnblogs.com/zy230530/p/13682080.html
